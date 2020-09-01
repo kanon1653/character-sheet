@@ -1,0 +1,19 @@
+body{
+    font-size: 15px;
+}
+
+table{
+    margin: 2rem;
+}
+
+table td{
+    width: 50px;
+}
+
+.skill-name {
+    width: 120px;
+}
+
+input{
+    width: 80%;
+}
